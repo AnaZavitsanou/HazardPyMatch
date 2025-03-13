@@ -1,0 +1,10 @@
+
+pandas
+requests
+beautifulsoup4
+lxml
+pubchempy
+openpyxl
+thermo
+pdfplumber
+matplotlib
