@@ -4,7 +4,7 @@ This is a Chemical Inventory and Hazard Analysis Pipeline. You can easily run th
 
 For general use, see below. 
 
-This script prompts the user for Globally Harmonized System (GHS) H-codes; see here for reference: https://pubchem.ncbi.nlm.nih.gov/ghs 
+This script prompts the user for Globally Harmonized System (GHS) H-codes. At least 1 H-code is required. See here for reference: https://pubchem.ncbi.nlm.nih.gov/ghs 
 
 There are 2 inputs. The first is a required Chemical Inventory or list stored as an .xlsx or .csv file. This file should have "Chemical_Inventory" in the file name and contain 2 required column names: "Chemical
 Name" and "CAS Number". The second is an optional folder of laboratory protocols. These should be PDF files as HazardPyMatch relies on the pdfplumber python dependency. We suggest naming your files Name of assay_Source.pdf i.e. Western blot (WB)_BioRad.pdf. 
