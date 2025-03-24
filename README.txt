@@ -1,4 +1,4 @@
-
+Check out our preprint! https://www.biorxiv.org/content/10.1101/2025.03.14.643365v1 
 ## ReadMe
 This is a Chemical Inventory and Hazard Analysis Pipeline. You can easily run this code in Google Colab. See HazardPyMatch/notebooks for the .ipynb file and colabREADME. 
 
